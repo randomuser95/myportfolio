@@ -46,7 +46,7 @@
 .salto:before {       
     display: block;       
     content: " ";       
-    margin-top: -110px;       
-    height: 110px;       
+    margin-top: -100px;       
+    height: 100px;       
     visibility: hidden; 
 }
